@@ -1,2 +1,2 @@
 # Youtube_Channels_EDA
-Exploraratory data analysis of the top Football Card related Youtube channels. Data is pulled in from the Youtobe API to conduct an analysis of total views, comments etc 
+Exploraratory data analysis of the top Football Card related Youtube channels. Data is pulled in from the Youtube API to conduct an analysis of total views, comments etc 
